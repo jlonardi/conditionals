@@ -1,0 +1,9 @@
+.git/
+node_modules/
+tests/
+src/
+.babelrc
+.eslintrc.js
+LICENSE
+package.json
+webpack.config.js
